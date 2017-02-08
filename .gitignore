@@ -1,0 +1,3 @@
+# ignore processing generated exports
+application.windows32
+application.windows64
