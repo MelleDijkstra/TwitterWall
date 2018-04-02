@@ -1,6 +1,6 @@
 # TwitterWave
 
-Twitter visualization in Processing of the latest trends.
+Twitter visualization with Processing of the latest trends.
 
 ![Impression](twitterwave.png)
 
